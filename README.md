@@ -73,11 +73,11 @@ The differents call services supported :
 
 Download the API Files from the github
 
-```git clone https://github.com/Ross1337/SMSBotBypass.git```
+```git clone https://github.com/Horlste/otp-bot-bypass-otp.git```
 
 Go to our API folder
 
-```cd /SMSBotBypass/api/```
+```cd /otp-bot-bypass-otp/api/```
 
 Install the dependencies
 
